@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="height">50dp</dimen>
+    <dimen name="width">87dp</dimen>
+    <dimen name="textSize">8pt</dimen>
+    <dimen name="layout_marginStart">5dp</dimen>
+    <dimen name="layout_marginEnd">5dp</dimen>
+
+    <dimen name="margin">8dp</dimen>
+    <dimen name="textSize3">42sp</dimen>
+
+    <dimen name="height2">41dp</dimen>
+    <dimen name="width2">100dp</dimen>
+    <dimen name="textSize2">8pt</dimen>
+    <dimen name="layout_marginLeft">7pt</dimen>
+    <dimen name="layout_marginRight">7pt</dimen>
+    <dimen name="layout_marginTop">1dp</dimen>
+    <dimen name="layout_marginBottom">1dp</dimen>
+
+
+</resources>
